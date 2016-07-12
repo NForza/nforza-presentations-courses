@@ -58,6 +58,11 @@ Website: [Centric Tech Event 2015](http://www.centric.eu/NL/Default/Evenementen/
 * JavaScript innovaties: ECMAScript 6 & 7 - Rick Beerendonk
 * ReactJS.NET: Fast and scalable Single Page Applications - Rick Beerendonk
 
+## SDN Event September 2014
+
+Website: [SDN Event September 2014](http://www.sdn.nl/EVENTS/19-september-2014)
+* ReactJS maakt het web eenvoudig - Rick Beerendonk
+
 ## TechDays 2014
 
 * [JavaScript als universele taal op het Microsoft platform](https://channel9.msdn.com/Events/TechDays/Techdays-2014-the-Netherlands/JavaScript-als-universele-taal-op-het-Microsoft-platform) - Ronald Harmsen
