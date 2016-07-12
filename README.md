@@ -42,7 +42,7 @@ Website: [techdays.nl](http://www.techdays.nl)
 ## GOTO Amsterdam 2016
 
 Website: [gotocon.com/amsterdam-2016](http://gotocon.com/amsterdam-2016/)
-* Perform like an Olympian - Rick Beerendonk
+* [Perform like an Olympian](http://www.slideshare.net/RickBeerendonk/perform-like-an-olympian) - Rick Beerendonk
 
 ## Centric Tech Event 2016
 
@@ -51,17 +51,21 @@ Website: [Centric Tech Event 2015](http://www.centric.eu/NL/Default/Evenementen/
 
 ## TechDays 2015
 
-* The Azure sightseeing tour - Erik van Appeldoorn
-* Functional programming: F# for C# developers - Ronald Harmsen
-* Domain Driven Design with F# - Ronald Harmsen
-* C#: Raise the bar with Functional & Immutable constructs - Rick Beerendonk
-* JavaScript innovaties: ECMAScript 6 & 7 - Rick Beerendonk
-* ReactJS.NET: Fast and scalable Single Page Applications - Rick Beerendonk
+* [The Azure sightseeing tour](http://www.slideshare.net/ErikvanAppeldoorn/tech-days-2015-the-azure-sightseeing-tour) - Erik van Appeldoorn
+* [Functional programming: F# for C# developers](http://www.slideshare.net/ronaldharmsen/techdaysnl-2015-f-for-c-developers) - Ronald Harmsen
+* [Domain Driven Design with F#](http://www.slideshare.net/ronaldharmsen/td15-ddd-with-fs) - Ronald Harmsen
+* [C#: Raise the bar with Functional & Immutable constructs](http://www.slideshare.net/RickBeerendonk/c-sharp-raise-the-bar-with-functional-immutable-constructs) - Rick Beerendonk
+* [JavaScript innovaties: ECMAScript 6 & 7](http://www.slideshare.net/RickBeerendonk/javascript-innovaties-ecmascript-6-7) - Rick Beerendonk
+* [ReactJS.NET: Fast and scalable Single Page Applications](http://www.slideshare.net/RickBeerendonk/react-jsnet-fast-and-scalable-single-page-applications-rick-beerendonk) - Rick Beerendonk
 
 ## SDN Event September 2014
 
 Website: [SDN Event September 2014](http://www.sdn.nl/EVENTS/19-september-2014)
-* ReactJS maakt het web eenvoudig - Rick Beerendonk
+* [ReactJS maakt het web eenvoudig](http://www.slideshare.net/RickBeerendonk/react-maakt-het) - Rick Beerendonk
+
+## In-house
+
+* [Does quality software exist?](http://www.slideshare.net/ronaldharmsen/software-quality-35594238) - Ronald Harmsen
 
 ## TechDays 2014
 
@@ -69,10 +73,24 @@ Website: [SDN Event September 2014](http://www.sdn.nl/EVENTS/19-september-2014)
 * [Niet onderhoudbare software in 10 makkelijke stappen](https://channel9.msdn.com/Events/TechDays/Techdays-2014-the-Netherlands/Niet-onderhoudbare-software-in-10-makkelijke-stappen) - Rick Beerendonk
 * [What’s new in Entity Framework 6?](https://channel9.msdn.com/Events/TechDays/Techdays-2014-the-Netherlands/What-s-new-in-Entity-Framework-6-) - Thomas Huijer
 
+## DotNed Meeting April 2014
+
+Website: [DotNed Meeting](http://www.dotned.nl/dotned-bijeenkomst/ronald-harmsen-over-mvc-4-beyond-the-basics-bij-macaw/?id=56)
+* [MVC4, Beyond the basics](http://www.slideshare.net/ronaldharmsen/dotned-mvc4) - Ronald Harmsen
+
+## SDN Event Maart 2014
+
+Website: [SDN Event Maart 2014](http://www.sdn.nl/EVENTS/28-Maart-2014)
+* [Introductie Node.js](http://www.slideshare.net/ErikvanAppeldoorn/introduction-nodejs-32863981) - Erik van Appeldoorn
+
+## Workshop SPA
+
+* [Workshop Single Page Applications](http://www.slideshare.net/ronaldharmsen/spa-31642411) - Ronald Harmsen
+
 ## JSConf Colombia 2013
 
 Website: [2013.jsconf.co](http://2013.jsconf.co/)
-* Building Maintainable Applications - Rick Beerendonk
+* [Building Maintainable Applications](http://rickbeerendonk.github.io/jsconf-colombia-2013/#/title) - Rick Beerendonk
 
 ## Windows 8 Dev Camp
 
